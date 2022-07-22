@@ -1,4 +1,4 @@
-<center><img src="https://www.commbox.io/wp-content/uploads/2020/10/501-1.jpg" width="1200" height="300" /></center>
+<center><img src="https://www.commbox.io/wp-content/uploads/2020/10/501-1.jpg" width="2500" height="300" /></center>
 <h1 align="center">Hi ??, I'm ABDELMOUNAIM BOUDIZE</h1>
 <h3 align="center">A passionate Business Intelligence And Data Science from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmounaimboudize&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmounaimboudize" /> </p>
