@@ -1,7 +1,7 @@
 <center><img src="https://www.commbox.io/wp-content/uploads/2020/10/501-1.jpg" width="2500" height="300" /></center>
 <h1 align="center">Hi 👋, I'm ABDELMOUNAIM BOUDIZE</h1>
 <h3 align="center">A Passionate Business Intelligence And Data Science from Morocco</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmounaimboudize&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmounaimboudize" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelmounaimboudize" alt="abdelmounaimboudize" /></a> </p>
