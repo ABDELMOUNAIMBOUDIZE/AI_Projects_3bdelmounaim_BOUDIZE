@@ -2,7 +2,7 @@
 <h1 align="center">Hi ??, I'm ABDELMOUNAIM BOUDIZE</h1>
 <h3 align="center">A passionate Business Intelligence And Data Science from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmounaimboudize&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmounaimboudize" /> </p>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+       <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelmounaimboudize" alt="abdelmounaimboudize" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - ?? How to reach me **boudize.a@gmail.com**
